@@ -1,0 +1,4 @@
+TextBox (productNameTextBox).
+TextBox  (priceTextBox).
+Button (addButton).
+ListBox  (productList).
